@@ -1,4 +1,3 @@
-# 
 
 \documentclass[10pt,twocolumn]{article}
 
@@ -20,3 +19,33 @@
 \maketitle
 
 \section{Inledning}
+
+Denna laboration gick ut p\aa\ att...
+
+\section{Metod}
+
+Uppgiften l\"ostes p\aa\ f\"oljande s\"att...
+
+\section{Resultat}
+
+Den s\"okta informationen \"ar:
+\begin{itemize}
+\item B\"arfrekvensen f\"or nyttosignalen \"ar $f_c=...$
+\item ...
+\end{itemize}
+
+\clearpage
+
+\section*{Min Matlab-kod:}
+\begin{spverbatim}
+clear all
+close all
+
+for k=1:...
+  ...
+end
+
+plot(...,...)
+\end{spverbatim}
+
+\end{document}
